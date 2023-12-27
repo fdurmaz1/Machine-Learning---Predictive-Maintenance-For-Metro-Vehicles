@@ -1,5 +1,5 @@
 # Machine Learning Project-Predictive Maintenance For Metro Vehicles
-# NOTE: Since Github doesn't allow me to upload files with bigger that 25mb, you can download the whole project from below link;
+### NOTE: Since Github doesn't allow me to upload files with bigger that 25mb, you can download the whole project from below link;
 [CLICK TO DOWNLOAD PROJECT](https://drive.google.com/drive/folders/1x8MH9qx2SO_uIojn8_Q9YZwYgkDsBBNL?usp=sharing)
 ## Introduction
 This project focuses mainly on the critical parts of public transport, especially Metro vehicles, and aims to points the challenges of detecting faults during regular operation. Prompt and efficient fault detection can prevent interruptions and minimize damage. Currently, faults in the Air Production Unit (APU), a critical component in Metro vehicles, often go undetected based on predefined thresholds, leading to unexpected maintenance and service disruptions.
